@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ducminhle27
-- 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning AI and Machine Learning
+- 👀 I’m interested 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
